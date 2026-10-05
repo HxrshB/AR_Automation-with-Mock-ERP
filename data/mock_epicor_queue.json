@@ -1,0 +1,22 @@
+{
+  "tickets": [
+    {
+      "ticket_id": "MOCK-3000461274",
+      "callout_number": "3000461274",
+      "created_by": "demo_user",
+      "status": "PENDING",
+      "attachments": [
+        {
+          "name": "Accounting Information - 3000461274.pdf",
+          "path": "sample/accounting_3000461274.pdf",
+          "document_type": "accounting"
+        },
+        {
+          "name": "JST - 3000461274.pdf",
+          "path": "sample/jst_3000461274.pdf",
+          "document_type": "jst"
+        }
+      ]
+    }
+  ]
+}
